@@ -46,6 +46,6 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
-For questions or feedback, reach out to [your-email@example.com](mailto:your-email@example.com) or open an issue on GitHub.
+For questions or feedback, reach out to [392.mdowais@gmail.com] or open an issue on GitHub.
 
 *Note*: This project is under active development. Stay tuned for updates as we enhance performance and add new features!
